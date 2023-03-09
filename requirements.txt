@@ -1,0 +1,14 @@
+streamlit
+streamlit_option_menu
+streamlit_yellowbrick
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+yellowbrick
+Pillow
+wordcloud
+underthesea
+demoji
+pyvi
